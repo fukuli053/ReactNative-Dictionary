@@ -1,0 +1,6 @@
+module Pods_Sozluk {
+  umbrella header "Pods-Sozluk-umbrella.h"
+
+  export *
+  module * { export * }
+}
